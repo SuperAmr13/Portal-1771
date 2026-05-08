@@ -9,7 +9,7 @@ const translations = {
     kingdom: "مملكة 1771",
     subtitle: "القادة العظام يحتاجون إلى مقاعد عظمى. سجل بياناتك الآن لضمان مكانك في الصفوف الأولى.",
     labelName: "اسم الحاكم (داخل اللعبة)",
-    labelPower: "إجمالي القوة (Total Power)",
+    labelPower: "إجمالي قوة الابطال (Total Hero Power)",
     labelContact: "معرف الديسكورد (Discord ID)",
     placeholderContact: "Name#0000",
     buttonCheck: "تأكيد الانضمام",
